@@ -1,0 +1,9 @@
+Copyright (c) 2026 Mohssine Oumiguil
+
+All rights reserved.
+
+This project is shared publicly for viewing and educational reference only.
+
+No permission is granted to reproduce, redistribute, publish, modify, or use this source code in other projects without prior written permission from the copyright holder.
+
+For permission requests, please contact the author through their official GitHub profile.
